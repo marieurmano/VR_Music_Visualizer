@@ -34,7 +34,7 @@ Insights Gained:
 
 ## In your report, discuss whether your predictions were accurate. Why or why not.
 
-Our predictions, though a little too positive on the outlook, did model the particpant's responses to their insights gained. It was often seen as a very pretty tool that was addicting to watch, but the interactions and changing of components on the experience were what really contributed to it being a learning tool as well. As a result, this visualizer did provide significant insights and also an aesthetic that is supported through virtual reality and a first person perspective.
+Our predictions, though a little too positive on the outlook, did model the participant's responses to their insights gained. It was often seen as a very pretty tool that was addicting to watch, but the interactions and changing of components on the experience were what really contributed to it being a learning tool as well. As a result, this visualizer did provide significant insights and also an aesthetic that is supported through virtual reality and a first person perspective.
 
 ### Have three people rate simulator sickness after the experience. Report averages and discuss what factors resulted in the simulator sickness values reported.
 
