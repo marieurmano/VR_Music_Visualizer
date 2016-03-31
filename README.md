@@ -36,13 +36,13 @@ Insights Gained:
 
 Our predictions, though a little too positive on the outlook, did model the participant's responses to their insights gained. It was often seen as a very pretty tool that was addicting to watch, but the interactions and changing of components on the experience were what really contributed to it being a learning tool as well. As a result, this visualizer did provide significant insights and also an aesthetic that is supported through virtual reality and a first person perspective.
 
-### Have three people rate simulator sickness after the experience. Report averages and discuss what factors resulted in the simulator sickness values reported.
+## Have three people rate simulator sickness after the experience. Report averages and discuss what factors resulted in the simulator sickness values reported.
 
 Our three people gained the following scores:
 6, 12, 11.
 Average: 9.66
 
-##How different components of the experience impacted the reported simulator sickness:
+###How different components of the experience impacted the reported simulator sickness:
 
 This virtual reality simulation, in its nature, shows many moving particles and ways for the user to get dizzy or eye strains. However, in order to visualize sound waves, the particles did a great job in showing a scene that was very accurate and real to show true data visualization. The depth into how close the user was to the waves definitely impacted the simulation, as well as the fast motion of the music or speech that was picked up. As a resuly, though these components definitely contributed to a higher simulation sickness score, they still provided a learning objective and an awesome way for the user to experience modeled data.
 
