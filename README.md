@@ -12,7 +12,7 @@ Video of the 3+ minute experience followed by insight goals, the benefits of exp
 ##Insights Participants Will Gain:
 Participants will (1) identify key components that play into sound systems and (2) learn how bands of sound interact to form sound waves and speech. They will be able to interact with the waves by changing amplitude, wave speed, and wave color to better understand sound wave movement and gain an understanding of the visualization. In addition, the user will also have the oppotunity to hear the course of an audio source manipulating the wave, as an addition to recognizing and decoding sound waves that make up speech in the original scene.
 
-For each participant, have them write down what they know about the topic contained in the VR experience.
+##For each participant, have them write down what they know about the topic contained in the VR experience.
 
 ###Participant 1:
 "I do not know how waves interact together to form sound systems."
