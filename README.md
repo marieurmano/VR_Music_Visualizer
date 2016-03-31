@@ -3,13 +3,10 @@ A music visualizer based on particle interactions built for Google Cardboard.
 
 This project was created by Marie Urmano, Jesse Trinity, and Chaz Pearson for Benjamin Lok's Spring 2016 Virtual Reality course as Project 3 Data Visualization.
 
-
-## Link to a .zip of your code and executable (executable for the mobile device):
-
-
-
 ## YouTube Video:
 Video of the 3+ minute experience followed by insight goals, the benefits of experiencing the environment in VR, and a technical description of your system.
+
+[YouTube Video](https://www.youtube.com/watch?v=4F7HuKbdgv0&feature=youtu.be)
 
 ##Insights Participants Will Gain:
 Participants will (1) identify key components that play into sound systems and (2) learn how bands of sound interact to form sound waves and speech. They will be able to interact with the waves by changing amplitude, wave speed, and wave color to better understand sound wave movement and gain an understanding of the visualization. In addition, the user will also have the opportunity to hear the course of an audio source manipulating the wave, as an addition to recognizing and decoding sound waves that make up speech in the original scene.
